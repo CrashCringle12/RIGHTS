@@ -44,7 +44,7 @@ Note that there is a reduced entry fee for those who preregister before December
 
 
 
-#Simfile Guidelines
+# Simfile Guidelines
 
 **HEY, YOU SHOULD PROBABLY READ THIS BEFORE MAKING OR SUBMITTING ANY SIMFILES. YEAH, THAT MEANS YOU.**
 
