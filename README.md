@@ -1,8 +1,9 @@
 # R.I.G.H.T.S Tournament 1
-**University Park StepMania 5 Tournament 5**<br>
-**aka: Ugh, Penn State**<br>
-**Uke Plus Seme (#bottomstruggles)**<br>
-**etc.**
+**Rhythm Intensive Games Having Toughish Stepcharts Tournament 1**<br>
+**aka Rhythm Intense Gamers Have to Test Stepcharts**<br>
+**aka rip i guess hexagons top squares**<br>
+**aka: really interesting guys hate the sun**<br>
+*open to ideas here pls*<br>
 
 **No Banner exists quite yet so using the J.U.M.P.S 2 banner as a placeholder**
 ![Banner](https://user-images.githubusercontent.com/30600688/195594684-9d763a10-7eb6-4e94-bffb-b5648cb45fe2.png)
@@ -14,7 +15,7 @@
 # Important Stuff
 | Thing  | Info |
 | ------------- | ------------- |
-| Date  | TBD (Tentative January 12th-13th  |
+| Date  | TBD (Tentative: January 14th-15th)  |
 | Times  | *Saturday: 10:00am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
@@ -27,9 +28,7 @@
 
 Since U.P.S is not happening this year, we will be holding R.I.G.H.T.S instead! It's more or less the same thing, even at the same location, but we are now running ITGMania (which is more or less the same as SM5).
 
-It's the re-return of U.P.S.! If you're familiar with the D.O.W.N.S. series, it's more or less the same thing, except we're using Stepmania 5 and it's at Penn State.
-
-Since SM5 is still being developed we will be using a predetermined version of SM5 and the theme (dbk2's Simply Love port). YOU CAN FIND INFORMATION ABOUT THIS IN THE POST BELOW.
+We are presently running ITGMania on our cab. Information about ITGMania can be found [HERE](https://www.itgmania.com/). If you're unfamiliar with ITGMania, for the purposes of this tournament it is interchangeable with SM5. **YOU CAN FIND INFORMATION ABOUT THIS IN THE POST BELOW.**
 
 The purpose of the U.P.S and D.O.W.N.S. tournament series was to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
 
@@ -75,12 +74,12 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **Stepmania 5 Specific** As long as you don't do things that break the machine (see the rules above), you can use the following.
 
-     * **Allowed Notetypes**: Tap, Mine, Fake, Lift*
-     * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor
-  * *While lifts are allowed, they are a noteskin dependent thing. Currently the noteskins we use fallback on the default noteskin which can make lifts look pretty wonky.
-  * *While attacks were allowed in the past, we've found some game breaking nuances with them and thus will be accepted on a case by case basis.
+    * * **Allowed Notetypes**: Tap, Mine, Fake, Lift*
+    * * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor
+ * *While lifts are allowed, they are a noteskin dependent thing. Currently the noteskins we use fallback on the default noteskin which can make lifts look pretty wonky.
+ * *While attacks were allowed in the past, we've found some game breaking nuances with them and thus will be accepted on a case by case basis.
 
-  * If you have any questions, don't hesitate to ask either myself or dbk2. Additionally if you come across any bugs, please let us know!
+  * If you have any questions, don't hesitate to ask. Additionally if you come across any bugs, please let us know!
 
 If one of your simfiles is rejected, you will be allowed to resubmit a corrected version of the rejected file or an entirely new file. You may choose to resubmit after a rejection as many times as you like, up until submissions are closed. However, once a simfile is accepted, it may not be revised or replaced. This means you should sync your files BEFORE giving them to me.
 
@@ -103,15 +102,15 @@ SM5 has a preference for "Quirks Mode" which adds some capability to read xml fi
 
 **The preregistration deadline is December 1st. You cannot preregister or submit any simfiles past this date.**
 
-To preregister, all you need to do is send me or Tyler James Frederick $10.00. (NOTE: I DO NOT HAVE A PAYPAL. Follow instructions below on who to send PayPal payments to.) For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
+To preregister, all you need to do is send me or Nick Wanner $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
 
-* The first option is to use Venmo me at @CrashCringle.
+* The first option is to Venmo TheNick at @wannernicholas or me at @CrashCringle
 
-* The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to tfrederick74656 at gmail dot com.
+* The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to dawnguard1234@gmail.com.
 
 * Alternatively, you could mail me the money. If this is what you would prefer, then let me know and I'll PM you my mailing address.
 
-* You could also hunt me down in real life. I show up to a bunch of the the cool-kid tournaments on the east and midwest coasts and I hang out in the west coast as well, so it shouldn't be hard to find me and toss me a Hamilton (or a Benjamin).
+* You could also hunt me down in real life. I exist everywhere on Penn State's campus. I'll also be at RIP 12.5. Honestly, it'll probably be a little difficult to find me unless you're at cabby.
 
 * Finally, you could just have another friend give me money for you. Of course, if you do this, your obligation to pay your friend back is out of my hands.
 
@@ -129,8 +128,10 @@ You can not preregister more than once.
 
 Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is send me the necessary files. To do this, you have several options, including the following
 
-* You can e-mail me the file crashcringle@gmail.com. Make sure the subject has something RIGHTS related so I can easily search my mailbox in case I miss it.
+* You can e-mail me the file lamarcooley123@gmail.com. Make sure the subject has something RIGHTS related so I can easily search my mailbox in case I miss it.
+
 * You can upload the file via a site like DropBox, Google Drive, OneDrive, etc. and PM me a download link on Facebook or on Discord (CrashCringle#0001)
+
 * If we happen to be friends on some form of social media (like XANGA or MYSPACE), you can send me the files that way.
 * You can send a thumb drive to me via carrier pigeon, but I'm probably going to keep the thumb drive, tbh.
 
