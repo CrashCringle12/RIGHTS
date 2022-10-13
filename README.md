@@ -75,8 +75,8 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **Stepmania 5 Specific** As long as you don't do things that break the machine (see the rules above), you can use the following.
 
-     * Allowed Notetypes: Tap, Mine, Fake, Lift*
-     * Allowed Segments: Stops, Delays, Warps, Scroll Factor
+     * **Allowed Notetypes**: Tap, Mine, Fake, Lift*
+     * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor
   * *While lifts are allowed, they are a noteskin dependent thing. Currently the noteskins we use fallback on the default noteskin which can make lifts look pretty wonky.
   * *While attacks were allowed in the past, we've found some game breaking nuances with them and thus will be accepted on a case by case basis.
 
@@ -90,33 +90,33 @@ Notwithstanding the aforementioned restrictions, your simfiles can be as easy or
 
 Stepmania 5 is a lot more capable than arcade ITG/Stepmania 3.95 so if you think something might not be allowed then be sure to ask me beforehand. I don't know all the capabilities of SM5 myself so some files might be rejected if I think they might affect the progress of the tournament.
 
-Dan has created a 3.95 --> SM5 Lua Guide which can be found HERE.
+Dan has created a 3.95 --> SM5 Lua Guide which can be found [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI)
 
 Additionally, you can submit using either .sm or .ssc files (or both!). Keep mind that .ssc will only work for SM5 and not arcade ITG/3.95/OpenITG. I recommend sticking with the .ogg/.sm convention if you're not doing anything SM5 exclusive so that people who aren't running SM5 (which is probably a good majority of people) can still play/practice your charts.
 
 SM5 has a preference for "Quirks Mode" which adds some capability to read xml files. Quirks Mode will be enabled for the tournament so if you'd want, you can create xml that works on arcade ITG as well as SM5. Although it's probably better to just write both lua and xml.
 
-DOUBLE-CHECK THAT YOUR SIMFILES MEET THE REQUIREMENTS BEFORE SUBMITTING THEM TO ME.
+**DOUBLE-CHECK THAT YOUR SIMFILES MEET THE REQUIREMENTS BEFORE SUBMITTING THEM TO ME.**
 
 
 # Preregistration
 
-The preregistration deadline is November 29th. You cannot preregister or submit any simfiles past this date.
+**The preregistration deadline is December 1st. You cannot preregister or submit any simfiles past this date.**
 
-To preregister, all you need to do is send me or Tyler James Frederick $10.00. (NOTE: I DO NOT HAVE A PAYPAL. Follow instructions below on who to send PayPal payments to.) For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options:
+To preregister, all you need to do is send me or Tyler James Frederick $10.00. (NOTE: I DO NOT HAVE A PAYPAL. Follow instructions below on who to send PayPal payments to.) For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
 
-    The first option is to use Venmo me at @teejusb.
+* The first option is to use Venmo me at @CrashCringle.
 
-    The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to tfrederick74656 at gmail dot com.
+* The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to tfrederick74656 at gmail dot com.
 
-    Alternatively, you could mail me the money. If this is what you would prefer, then let me know and I'll PM you my mailing address.
+* Alternatively, you could mail me the money. If this is what you would prefer, then let me know and I'll PM you my mailing address.
 
-    You could also hunt me down in real life. I show up to a bunch of the the cool-kid tournaments on the east and midwest coasts and I hang out in the west coast as well, so it shouldn't be hard to find me and toss me a Hamilton (or a Benjamin).
+* You could also hunt me down in real life. I show up to a bunch of the the cool-kid tournaments on the east and midwest coasts and I hang out in the west coast as well, so it shouldn't be hard to find me and toss me a Hamilton (or a Benjamin).
 
-    Finally, you could just have another friend give me money for you. Of course, if you do this, your obligation to pay your friend back is out of my hands.
+* Finally, you could just have another friend give me money for you. Of course, if you do this, your obligation to pay your friend back is out of my hands.
 
 
-Like last year, I will allow people to preregister and submit simfiles without any intention of attending the tournament. However, if you don't come, you're probably really lame, so you should come anyway.
+As done in U.P.S, I will allow people to preregister and submit simfiles without any intention of attending the tournament. However, if you don't come, you're probably really lame, so you should come anyway.
 
 Please note that even though you will be directly sending the money to me, I will not be keeping any amount of it for myself. Everything you send me will go directly into the pot (save for some percentage which will be collected for Jack Houser as a machine-usage fee).
 
@@ -127,52 +127,47 @@ You can not preregister more than once.
 
 # Simfile Submission
 
-Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is send me the necessary files. To do this, you have several options, including the following:
+Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is send me the necessary files. To do this, you have several options, including the following
 
-
-
-    You can e-mail me the file teejusb at gmail dot com. Make sure the subject has something UPS related so I can easily search my mailbox in case I miss it.
-
-    You can upload the file via a site like DropBox and PM me a download link on Facebook or on Discord (teejusb#1921)
-
-    If we happen to be friends on some form of social media (like XANGA or MYSPACE), you can send me the files that way.
-
-    You can send a thumb drive to me via carrier pigeon, but I'm probably going to keep the thumb drive, tbh.
+* You can e-mail me the file crashcringle@gmail.com. Make sure the subject has something RIGHTS related so I can easily search my mailbox in case I miss it.
+* You can upload the file via a site like DropBox, Google Drive, OneDrive, etc. and PM me a download link on Facebook or on Discord (CrashCringle#0001)
+* If we happen to be friends on some form of social media (like XANGA or MYSPACE), you can send me the files that way.
+* You can send a thumb drive to me via carrier pigeon, but I'm probably going to keep the thumb drive, tbh.
 
 As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
-POSTING IN THE FACEBOOK EVENT IS NOT A SUBMISSION. These are hard to keep track of. You may post files in the event group, but ALSO PM me a direct link.
+**POSTING IN THE FACEBOOK EVENT IS NOT A SUBMISSION.** These are hard to keep track of. You may post files in the event group, but ALSO PM me a direct link.
 
 About a week after the submission deadline, I will release a finalized tournament pack of all of the accepted simfile submissions.
 
 
 # Tournament Rules
 
-The tournament will be a standard double-elimination bracket. A few points will be noted:
+The tournament will be a standard double-elimination bracket. A few points will be noted
 
-    Seeding will be based on the order in which people register for the tournament.
+   * Seeding will be based on the order in which people register for the tournament.
 
-    Tie-breakers will be chosen from the pack using the machine's "Random" feature.
+   * Tie-breakers will be chosen from the pack using the machine's "Random" feature.
 
-    The player with the highest final percentage (either passing or failing) wins the song.
+   * The player with the highest final percentage (either passing or failing) wins the song.
 
-    You may only choose mods that do not disqualify you, with the exception that you also not use turn mods (some other mods such as Simple will also be removed from the mod selection screen).
+   * You may only choose mods that do not disqualify you, with the exception that you also not use turn mods (some other mods such as Simple will also be removed from the mod selection screen).
 
-    You may not pick a song more than once.
+   * You may not pick a song more than once.
 
-    You may only pick (or random) amongst the expert singles charts.
+   * You may only pick (or random) amongst the expert singles charts.
 
-    At the beginning of each match, an intense match of Rock, Paper, Scissors will determine which player chooses his or her preferred pad or song pick order, then the other player decides the remaining option.
+   * At the beginning of each match, an intense match of Rock, Paper, Scissors will determine which player chooses his or her preferred pad or song pick order, then the other player decides the remaining option.
 
-    During a match, you should stay on your side of the pad and not touch your opponent or obstruct his or her field of vision. Verbal distractions are allowed up to the extent that they cannot bother other people in the area. The audience is also allowed (and encouraged) to create verbal distractions.
+   * During a match, you should stay on your side of the pad and not touch your opponent or obstruct his or her field of vision. Verbal distractions are allowed up to the extent that they cannot bother other people in the area. The audience is also allowed (and encouraged) to create verbal distractions.
 
-    If your opponent fails, you are allowed to play the rest of the song unless otherwise noted.
+   * If your opponent fails, you are allowed to play the rest of the song unless otherwise noted.
 
-    You will be disqualified if you don't show up in time for your match. If you want to get food, check the bracket first and let me know where you'll be. I will try and post a list of upcoming matches on a nearby wall, but you can also could (and should) just ask me in person.
+   * You will be disqualified if you don't show up in time for your match. If you want to get food, check the bracket first and let me know where you'll be. I will try and post a list of upcoming matches on a nearby wall, but you can also could (and should) just ask me in person.
 
-    Don't fart on your opponent while you're playing. Unless they're into that.
+   * Don't fart on your opponent while you're playing. Unless they're into that.
 
-    You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
+   * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
 
 
 
@@ -180,9 +175,11 @@ The tournament will be a standard double-elimination bracket. A few points will 
 
 There's a convenience store with drinks and snacks in the same building as the machine.
 
-If you get hungry, there is a lot of food downtown which is about a 5 minute walk. There is a Sheetz downtown now as well. Feel free to get food whenever you want, as long as you can get back in time for your match. You can bring food back towards the venue, but please clean up after yourself and throw your trash away.
+There's an all-you-can-eat Buffet above the room we're having the tournament. It's kinda pricey, dinner is ~$15 for non students and lunch is ~$12
 
-The machine will be moved to a Rec Room in the same building so there should be enough space to hangout and watch. At worst you can sit on peoples' laps or something.
+If you get hungry, there is a lot of food downtown which is about a 5 minute walk. There is a Sheetz downtown now as well. Feel free to get food whenever you want, as long as you can get back in time for your match. You can bring food back towards the venue, but **please clean up after yourself** and throw your trash away.
+
+The machine is now permanently located in Rec Room (formerly, we used to move it into this room from another area in the same building). There should be enough space to hangout and watch. At worst you can sit on peoples' laps or something.
 
 
 # Hotels / Housing / Transportation
