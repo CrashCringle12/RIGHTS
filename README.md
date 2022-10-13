@@ -4,7 +4,8 @@
 **Uke Plus Seme (#bottomstruggles)**<br>
 **etc.**
 
--No Banner exists quite yet=
+**No Banner exists quite yet so using the J.U.M.P.S 2 banner as a placeholder**
+![Banner](https://user-images.githubusercontent.com/30600688/195594684-9d763a10-7eb6-4e94-bffb-b5648cb45fe2.png)
 
 -Placeholder: Entire pack download link will be available here=
 
