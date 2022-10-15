@@ -6,7 +6,7 @@
 *open to ideas here pls*<br>
 
 **No Banner exists quite yet so using the J.U.M.P.S 2 banner as a placeholder**
-![Banner](https://user-images.githubusercontent.com/30600688/195594684-9d763a10-7eb6-4e94-bffb-b5648cb45fe2.png)
+![Rights](https://user-images.githubusercontent.com/30600688/195996930-e859d20c-ca57-469d-9273-d2df5c2e062a.png)
 
 -Placeholder: Entire pack download link will be available here=
 
@@ -80,6 +80,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
  * *While attacks were allowed in the past, we've found some game breaking nuances with them and thus will be accepted on a case by case basis.
 
   * If you have any questions, don't hesitate to ask. Additionally if you come across any bugs, please let us know!
+* **ITGMania Specific** You are not allowed to use lua to manipulate timing windows/visual delay.
 
 If one of your simfiles is rejected, you will be allowed to resubmit a corrected version of the rejected file or an entirely new file. You may choose to resubmit after a rejection as many times as you like, up until submissions are closed. However, once a simfile is accepted, it may not be revised or replaced. This means you should sync your files BEFORE giving them to me.
 
