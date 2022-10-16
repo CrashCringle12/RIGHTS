@@ -104,7 +104,7 @@ SM5 has a preference for "Quirks Mode" which adds some capability to read xml fi
 **The preregistration deadline is December 1st. You cannot preregister or submit any simfiles past this date.**
 
 To preregister, all you need to do is send me or Nick Wanner $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
-
+**PLEASE INCLUDE YOUR DISCORD HANDLE WHEN PRE-REGISTERING**
 * The first option is to Venmo TheNick at @wannernicholas or me at @CrashCringle
 
 * The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to dawnguard1234@gmail.com.
