@@ -188,3 +188,7 @@ The machine is now permanently located in Rec Room (formerly, we used to move it
 There are quite a few hotels which are fairly close by. A lot of the people who went to Penn State have graduated but there are still a few people who may have housing. I'll get more information and post it here sometime later. In the meantime, feel free to ask me any questions.
 
 The closest airport is the University Park Airport which is like a 5-10 minute drive from campus. It's also a fairly small airport. 
+
+# Registrants/Simfiles
+
+Viewable in [Discord](https://discord.gg/zCzfry9yZR) 
