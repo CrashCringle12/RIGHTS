@@ -104,7 +104,7 @@ SM5 has a preference for "Quirks Mode" which adds some capability to read xml fi
 **The preregistration deadline is December 1st. You cannot preregister or submit any simfiles past this date.**
 
 To preregister, all you need to do is send me or Nick Wanner $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
-**PLEASE INCLUDE YOUR DISCORD HANDLE WHEN PRE-REGISTERING**
+**PLEASE INCLUDE YOUR NAME/USERNAME and/or HANDLE WHEN PRE-REGISTERING**
 * The first option is to Venmo TheNick at @wannernicholas or me at @CrashCringle
 
 * The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to dawnguard1234@gmail.com.
@@ -127,14 +127,13 @@ You can not preregister more than once.
 
 # Simfile Submission
 
-Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is send me the necessary files. To do this, you have several options, including the following
+Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is submit your files to the stepchart submission form: 
 
-* You can e-mail me the file lamarcooley123@gmail.com. Make sure the subject has something RIGHTS related so I can easily search my mailbox in case I miss it.
+* https://forms.gle/2AeTkEAAVLR1nSju5
 
-* You can upload the file via a site like DropBox, Google Drive, OneDrive, etc. and PM me a download link on Facebook or on Discord (CrashCringle#0001)
+As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
-* If we happen to be friends on some form of social media (like XANGA or MYSPACE), you can send me the files that way.
-* You can send a thumb drive to me via carrier pigeon, but I'm probably going to keep the thumb drive, tbh.
+**POSTING IN THE FACEBOOK/DISCORD GROUP IS NOT A SUBMISSION.** These are hard to keep track of. You may post files in the event group, but ALSO PM me a direct link.
 
 As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
