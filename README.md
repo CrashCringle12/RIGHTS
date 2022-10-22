@@ -13,9 +13,11 @@
 
 
 # Important Stuff
+
+## [Discord](https://discord.gg/zCzfry9yZR)
 | Thing  | Info |
 | ------------- | ------------- |
-| Date  | TBD (Tentative: January 14th-15th)  |
+| Date  | January 14th-15th)  |
 | Times  | *Saturday: 10:00am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
@@ -41,8 +43,6 @@ If you preregister before December 1st, you are allowed to submit up to three of
 Of course, you can still choose to enter after December 1st, but you will not be able to submit any of your own simfiles to the tournament pack.
 
 Note that there is a reduced entry fee for those who preregister before December 1st.
-
-
 
 # Simfile Guidelines
 
@@ -105,6 +105,7 @@ SM5 has a preference for "Quirks Mode" which adds some capability to read xml fi
 
 To preregister, all you need to do is send me or Nick Wanner $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
 **PLEASE INCLUDE YOUR NAME/USERNAME and/or HANDLE WHEN PRE-REGISTERING**
+
 * The first option is to Venmo TheNick at @wannernicholas or me at @CrashCringle
 
 * The second option is to use PayPal. If you link your bank account to your PayPal account or use your PayPal balance, money will not be deducted from the transaction (this means I'll actually get all of the $10.00 you send me, instead of ~$9). Send the payment to dawnguard1234@gmail.com.
@@ -134,10 +135,6 @@ Once you have preregistered, you may begin submitting simfiles. To submit a simf
 As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
 **POSTING IN THE FACEBOOK/DISCORD GROUP IS NOT A SUBMISSION.** These are hard to keep track of. You may post files in the event group, but ALSO PM me a direct link.
-
-As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
-
-**POSTING IN THE FACEBOOK EVENT IS NOT A SUBMISSION.** These are hard to keep track of. You may post files in the event group, but ALSO PM me a direct link.
 
 About a week after the submission deadline, I will release a finalized tournament pack of all of the accepted simfile submissions.
 
@@ -189,6 +186,6 @@ There are quite a few hotels which are fairly close by. A lot of the people who 
 
 The closest airport is the University Park Airport which is like a 5-10 minute drive from campus. It's also a fairly small airport. 
 
-# Registrants/Simfiles
+# Registrants / Simfiles
 
 Viewable in [Discord](https://discord.gg/zCzfry9yZR) 
