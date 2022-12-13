@@ -1,36 +1,44 @@
 # R.I.G.H.T.S Tournament 1
-**Rhythm Intensive Games Having Toughish Stepcharts Tournament 1**<br>
-**aka Rhythm Intense Gamers Have to Test Stepcharts**<br>
-**aka rip i guess hexagons top squares**<br>
-**aka: really interesting guys hate the sun**<br>
-*open to ideas here pls*<br>
 
-**No Banner exists quite yet so using the J.U.M.P.S 2 banner as a placeholder**
+Rhythm Intensive Games Having Toughish Stepcharts Tournament 1
+
+   * aka `Rhythm In Gaming: High Tech Shitposting`
+   * aka `Rhythm Intense Gamers Have to Test Stepcharts`
+   * aka `rip i guess hexagons top squares`
+   * aka `really interesting guys hate the sun`
+   * aka `really inviting gamers (to) have tournament (of) stepmania`
+   * aka `Rhythmgame It Gmania Hittin (the) Tournament Scene`
+   * aka `rudely including garish hilarity to simfiles`
+
+
+**No Banner exists yet so this is a placeholder**
 ![Rights](https://user-images.githubusercontent.com/30600688/195996930-e859d20c-ca57-469d-9273-d2df5c2e062a.png)
 
--Placeholder: Entire pack download link will be available here=
+-Placeholder: Entire pack download link will be available here-
 
 
+
+## Social Media
+  * [Discord](https://discord.gg/zCzfry9yZR)
+  * [FB Group](https://fb.me/e/1TqGIkn1k)
 
 # Important Stuff
 
-## [Discord](https://discord.gg/zCzfry9yZR)
 | Thing  | Info |
 | ------------- | ------------- |
-| Date  | January 14th-15th)  |
+| Date  | January 14th–15th  |
 | Times  | *Saturday: 10:00am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
 | Establishment | Pollock Commons  |
 | Address  | Pollock Commons, State College, PA 16802  |
-| [FB Group](https://fb.me/e/1TqGIkn1k) | [Discord](https://discord.gg/zCzfry9yZR) |
 
-[D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S.](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)
+[D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010)<br>
+[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)
+
 # Overview
 
-Since U.P.S is not happening this year, we will be holding R.I.G.H.T.S instead! It's more or less the same thing, even at the same location, but we are now running ITGMania (which is more or less the same as SM5).
-
-We are presently running ITGMania on our cab. Information about ITGMania can be found [HERE](https://www.itgmania.com/). If you're unfamiliar with ITGMania, for the purposes of this tournament it is interchangeable with SM5. **YOU CAN FIND INFORMATION ABOUT THIS IN THE POST BELOW.**
+Since U.P.S is not happening this year, we will be holding R.I.G.H.T.S instead! It's more or less the same thing, even at the same location, but we are now running ITGMania (which is very similar to SM5).
 
 The purpose of the U.P.S and D.O.W.N.S. tournament series was to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
 
@@ -44,11 +52,17 @@ Of course, you can still choose to enter after December 1st, but you will not be
 
 Note that there is a reduced entry fee for those who preregister before December 1st.
 
+# Software
+
+We are presently running **ITGMania 0.5.1** on our cab and will be during R.I.G.H.T.S 1. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
+
+If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.
+
 # Simfile Guidelines
 
 **HEY, YOU SHOULD PROBABLY READ THIS BEFORE MAKING OR SUBMITTING ANY SIMFILES. YEAH, THAT MEANS YOU.**
 
-If your submissions do not meet the guidelines, they will not be accepted. So if you have any questions, or if the rules are unclear, please ask. 
+If your submissions do not meet the guidelines, they will not be accepted. So if you have any questions, or if the rules are unclear, please ask.
 
 ## RULES
 
@@ -70,17 +84,17 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **Don't be a pain in the ass.** If your chart has a three-minute intro/outro without any notes, you are being a pain in the ass. If your audio is excessively loud or uncomfortable to listen to, you are being a pain in the ass. If you try to hide inappropriate content in your simfile, you are being a pain in the ass. If you submit borderline-offensive content without PM'ing me first, you are being a pain in the ass. Don't be a pain in the ass. I reserve the right to refuse charts that I feel are breaking this rule.
 
-* **The machine's monitor is Widescreen.** The monitor is a 1920 x 1080, 16:9 monitor. If you are looking to do foreground things, keep this in mind. It'd probably be good if you account for widescreen or you letterbox your fgchanges so that things play out the way you want.
+* **The machine's monitor is Widescreen.** The monitor is a 2560 x 1440, 16:9 monitor. If you are looking to do foreground things, keep this in mind. It'd probably be good if you account for widescreen or you letterbox your fgchanges so that things play out the way you want.
 
 * **Stepmania 5 Specific** As long as you don't do things that break the machine (see the rules above), you can use the following.
 
     * * **Allowed Notetypes**: Tap, Mine, Fake, Lift*
     * * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor
  * *While lifts are allowed, they are a noteskin dependent thing. Currently the noteskins we use fallback on the default noteskin which can make lifts look pretty wonky.
- * *While attacks were allowed in the past, we've found some game breaking nuances with them and thus will be accepted on a case by case basis.
+ * *While all attacks were allowed in the past, we've found some game-crashing nuances with them and thus will be accepted on a case-by-case basis.
 
   * If you have any questions, don't hesitate to ask. Additionally if you come across any bugs, please let us know!
-* **ITGMania Specific** You are not allowed to use lua to manipulate timing windows/visual delay.
+* **ITGMania Specific** You are not allowed to use Lua to manipulate timing windows/visual delay.
 
 If one of your simfiles is rejected, you will be allowed to resubmit a corrected version of the rejected file or an entirely new file. You may choose to resubmit after a rejection as many times as you like, up until submissions are closed. However, once a simfile is accepted, it may not be revised or replaced. This means you should sync your files BEFORE giving them to me.
 
@@ -88,9 +102,9 @@ If one of your simfiles is rejected, you will be allowed to resubmit a corrected
 
 Notwithstanding the aforementioned restrictions, your simfiles can be as easy or hard, plain or gimmicky, slow or fast, or reasonable or ridiculous as you like. Use this to your advantage.
 
-Stepmania 5 is a lot more capable than arcade ITG/Stepmania 3.95 so if you think something might not be allowed then be sure to ask me beforehand. I don't know all the capabilities of SM5 myself so some files might be rejected if I think they might affect the progress of the tournament.
+StepMania 5 is a lot more capable than arcade ITG/StepMania 3.95 so if you think something might not be allowed then be sure to ask me beforehand. I don't know all the capabilities of SM5 myself so some files might be rejected if I think they might affect the progress of the tournament.
 
-Dan has created a 3.95 --> SM5 Lua Guide which can be found [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI)
+Dan hosts a copy of StepMania 5's Lua API doc [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI).
 
 Additionally, you can submit using either .sm or .ssc files (or both!). Keep mind that .ssc will only work for SM5 and not arcade ITG/3.95/OpenITG. I recommend sticking with the .ogg/.sm convention if you're not doing anything SM5 exclusive so that people who aren't running SM5 (which is probably a good majority of people) can still play/practice your charts.
 
@@ -128,7 +142,7 @@ You can not preregister more than once.
 
 # Simfile Submission
 
-Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is submit your files to the stepchart submission form: 
+Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is submit your files to the stepchart submission form:
 
 * https://forms.gle/2AeTkEAAVLR1nSju5
 
@@ -184,8 +198,8 @@ The machine is now permanently located in Rec Room (formerly, we used to move it
 
 There are quite a few hotels which are fairly close by. A lot of the people who went to Penn State have graduated but there are still a few people who may have housing. I'll get more information and post it here sometime later. In the meantime, feel free to ask me any questions.
 
-The closest airport is the University Park Airport which is like a 5-10 minute drive from campus. It's also a fairly small airport. 
+The closest airport is the University Park Airport which is like a 5–10 minute drive from campus. It's also a fairly small airport.
 
 # Registrants / Simfiles
 
-Viewable in [Discord](https://discord.gg/zCzfry9yZR) 
+Viewable in [Discord](https://discord.gg/zCzfry9yZR)
