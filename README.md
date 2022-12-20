@@ -11,6 +11,8 @@ Rhythm Intensive Games Having Toughish Stepcharts Tournament 1
    * aka `Rhythmgame It Gmania Hittin (the) Tournament Scene`
    * aka `rudely including garish hilarity to simfiles`
 
+(We'll have a poll to finally decide the title at the tournament!)
+
 
 ![Rights](https://user-images.githubusercontent.com/30600688/208770944-8c1716f9-6e78-4e49-942e-0cc7eace936d.PNG)
 ### [Download Pack Here](https://drive.google.com/file/d/1q7MVjzLmMbRKF_0hzWoo1s3z6XucrkOi/view?usp=share_link)
