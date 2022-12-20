@@ -7,15 +7,13 @@ Rhythm Intensive Games Having Toughish Stepcharts Tournament 1
    * aka `rip i guess hexagons top squares`
    * aka `really interesting guys hate the sun`
    * aka `really inviting gamers (to) have tournament (of) stepmania`
+   * aka `R.I.G.H.T.S Is Guaranteed Happy Times`
    * aka `Rhythmgame It Gmania Hittin (the) Tournament Scene`
    * aka `rudely including garish hilarity to simfiles`
 
 
-**No Banner exists yet so this is a placeholder**
-![Rights](https://user-images.githubusercontent.com/30600688/195996930-e859d20c-ca57-469d-9273-d2df5c2e062a.png)
-
--Placeholder: Entire pack download link will be available here-
-
+![Rights](https://user-images.githubusercontent.com/30600688/208770944-8c1716f9-6e78-4e49-942e-0cc7eace936d.PNG)
+### [Download Pack Here](https://drive.google.com/file/d/1q7MVjzLmMbRKF_0hzWoo1s3z6XucrkOi/view?usp=share_link)
 
 
 ## Social Media
@@ -89,7 +87,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 * **Stepmania 5 Specific** As long as you don't do things that break the machine (see the rules above), you can use the following.
 
     * * **Allowed Notetypes**: Tap, Mine, Fake, Lift*
-    * * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor
+    * * **Allowed Segments**: Stops, Delays, Warps, Scroll Factor, Speed, Fake
  * *While lifts are allowed, they are a noteskin dependent thing. Currently the noteskins we use fallback on the default noteskin which can make lifts look pretty wonky.
  * *While all attacks were allowed in the past, we've found some game-crashing nuances with them and thus will be accepted on a case-by-case basis.
 
