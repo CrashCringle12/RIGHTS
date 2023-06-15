@@ -1,8 +1,8 @@
 # R.I.G.H.T.S Tournament 1
 
-Rhythm Intensive Games Having Toughish Stepcharts Tournament 1
+Rhythm In Gaming: High Tech Shitposting 1
 
-   * aka `Rhythm In Gaming: High Tech Shitposting`
+   * aka `Rhythm Intensive Games Having Toughish Stepcharts Tournament`
    * aka `Rhythm Intense Gamers Have to Test Stepcharts`
    * aka `rip i guess hexagons top squares`
    * aka `really interesting guys hate the sun`
@@ -11,12 +11,18 @@ Rhythm Intensive Games Having Toughish Stepcharts Tournament 1
    * aka `Rhythmgame It Gmania Hittin (the) Tournament Scene`
    * aka `rudely including garish hilarity to simfiles`
 
-(We'll have a poll to finally decide the title at the tournament!)
+Poll Winner: `Rhythm In Gaming: High Tech Shitposting`!
+
+Stream: 
+https://www.twitch.tv/videos/1707175855 <br>
+https://youtu.be/YUVbrbaUzGQ <br>
+https://youtu.be/BUOeWMeH_nI <br>
 
 
 ![Rights](https://user-images.githubusercontent.com/30600688/208770944-8c1716f9-6e78-4e49-942e-0cc7eace936d.PNG)
 ### [Download Pack Here](https://drive.google.com/file/d/1q7MVjzLmMbRKF_0hzWoo1s3z6XucrkOi/view?usp=share_link)
 
+BRACKET: https://challonge.com/rights1
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
