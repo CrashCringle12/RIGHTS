@@ -2,7 +2,9 @@
 
 Rhythm In Gaming: High Tech Shitposting 1
 
-![Rights](https://user-images.githubusercontent.com/30600688/208770944-8c1716f9-6e78-4e49-942e-0cc7eace936d.PNG)
+![RIGHTS2](https://github.com/CrashCringle12/RIGHTS/assets/30600688/4f9cba14-756e-4417-85d5-833f9d415752)
+
+
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
