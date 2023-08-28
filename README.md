@@ -1,10 +1,8 @@
 # R.I.G.H.T.S Tournament 2
 
-Rhythm In Gaming: High Tech Shitposting 1
-
 ![RIGHTS2](https://github.com/CrashCringle12/RIGHTS/assets/30600688/4f9cba14-756e-4417-85d5-833f9d415752)
 
-
+Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Sillyposting 2)
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
@@ -56,6 +54,8 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **The simfile must not be offensive.** Offensive material includes **obscene** levels of profanity, explicit sexual references, lyrics depicting excessive violence, irritatingly loud and obnoxious noises, and anything else that could offend or disturb others in the surrounding area. Simfiles that do not meet this criteria will be rejected, so please do not spend time working on a submission unless you are confident that it is acceptable. (In addition, any graphics, lyric files, or other additions to the simfile must also be appropriate). If you have any questions about whether a song meets this criteria or not feel free to PM me. 
 
+* The simfile audio can contain **swears** provided they adhere to the previous guideline and can be considered "lowkey". This rule is somewhat subjective and will be at the discretion of the TOs. You may be asked to censor your chart before it can be accepted into the pack.
+
 * **The chart must have at least 50 hittable arrows.** An example of an arrow that is not hittable is one that is preceded by a negative BPM/warp. The purpose of this rule is to cut down the chances of players repeatedly tying on a song.
 
 * **The total uncompressed size of all of your three submissions *combined* should be no greater than 25MB.** The tournament pack grows in size every year, and I want to keep it somewhat reasonable. If your simfile includes a video file, you will absolutely need to compress it to meet this requirement.
@@ -83,7 +83,6 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 * **ITGMania Specific** You are not allowed to use Lua to manipulate timing windows/visual delay.
 
 If one of your simfiles is rejected, you will be allowed to resubmit a corrected version of the rejected file or an entirely new file. You may choose to resubmit after a rejection as many times as you like, up until submissions are closed. However, once a simfile is accepted, it may not be revised or replaced. This means you should sync your files BEFORE giving them to me.
-
 
 
 Notwithstanding the aforementioned restrictions, your simfiles can be as easy or hard, plain or gimmicky, slow or fast, or reasonable or ridiculous as you like. Use this to your advantage.
