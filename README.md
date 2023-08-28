@@ -1,28 +1,8 @@
-# R.I.G.H.T.S Tournament 1
+# R.I.G.H.T.S Tournament 2
 
 Rhythm In Gaming: High Tech Shitposting 1
 
-   * aka `Rhythm Intensive Games Having Toughish Stepcharts Tournament`
-   * aka `Rhythm Intense Gamers Have to Test Stepcharts`
-   * aka `rip i guess hexagons top squares`
-   * aka `really interesting guys hate the sun`
-   * aka `really inviting gamers (to) have tournament (of) stepmania`
-   * aka `R.I.G.H.T.S Is Guaranteed Happy Times`
-   * aka `Rhythmgame It Gmania Hittin (the) Tournament Scene`
-   * aka `rudely including garish hilarity to simfiles`
-
-Poll Winner: `Rhythm In Gaming: High Tech Shitposting`!
-
-Stream: 
-https://www.twitch.tv/videos/1707175855 <br>
-https://youtu.be/YUVbrbaUzGQ <br>
-https://youtu.be/BUOeWMeH_nI <br>
-
-
 ![Rights](https://user-images.githubusercontent.com/30600688/208770944-8c1716f9-6e78-4e49-942e-0cc7eace936d.PNG)
-### [Download Pack Here](https://drive.google.com/file/d/1q7MVjzLmMbRKF_0hzWoo1s3z6XucrkOi/view?usp=share_link)
-
-BRACKET: https://challonge.com/rights1
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
@@ -32,7 +12,7 @@ BRACKET: https://challonge.com/rights1
 
 | Thing  | Info |
 | ------------- | ------------- |
-| Date  | January 14th–15th  |
+| Date  | January 27th–28th  |
 | Times  | *Saturday: 10:00am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
@@ -40,13 +20,11 @@ BRACKET: https://challonge.com/rights1
 | Address  | Pollock Commons, State College, PA 16802  |
 
 [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010)<br>
-[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)
+[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)<br>[R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS-1/wiki/R.I.G.H.T.S-1)
 
 # Overview
 
-Since U.P.S is not happening this year, we will be holding R.I.G.H.T.S instead! It's more or less the same thing, even at the same location, but we are now running ITGMania (which is very similar to SM5).
-
-The purpose of the U.P.S and D.O.W.N.S. tournament series was to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
+The purpose of the R.I.G.H.T.S tournament series is to create a casual, inclusive environment that maximizes everyone's participation, regardless of skill level, while still retaining unique elements of strategy. Everyone is encouraged to enter! (Unless you smell bad or something...)
 
 The rules will be similar to those of the U.P.S and D.O.W.N.S. tournament series. But please actually review the rules before registering or submitting files.
 
@@ -62,7 +40,7 @@ Note that there is a reduced entry fee for those who preregister before December
 
 We are presently running **ITGMania 0.5.1** on our cab and will be during R.I.G.H.T.S 1. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
 
-If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.
+If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.1.
 
 # Simfile Guidelines
 
@@ -74,7 +52,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **The simfile must be less than 3:30.** I don't care how long your OGG/MP3 is (but check the filesize requirement), but the total play time of the file cannot be 3:30 or greater. At all. Double-check by setting LongVerSongSeconds to 210 and making sure it doesn't count as two rounds before submitting your file.
 
-* **The simfile must not be offensive.** Offensive material includes obscene levels of profanity, explicit sexual references, lyrics depicting excessive violence, irritatingly loud and obnoxious noises, and anything else that could offend or disturb others in the surrounding area. Simfiles that do not meet this criteria will be rejected, so please do not spend time working on a submission unless you are confident that it is acceptable. (In addition, any graphics, lyric files, or other additions to the simfile must also be appropriate). If you have any questions about whether a song meets this criteria or not feel free to PM me.
+* **The simfile must not be offensive.** Offensive material includes **obscene** levels of profanity, explicit sexual references, lyrics depicting excessive violence, irritatingly loud and obnoxious noises, and anything else that could offend or disturb others in the surrounding area. Simfiles that do not meet this criteria will be rejected, so please do not spend time working on a submission unless you are confident that it is acceptable. (In addition, any graphics, lyric files, or other additions to the simfile must also be appropriate). If you have any questions about whether a song meets this criteria or not feel free to PM me. 
 
 * **The chart must have at least 50 hittable arrows.** An example of an arrow that is not hittable is one that is preceded by a negative BPM/warp. The purpose of this rule is to cut down the chances of players repeatedly tying on a song.
 
@@ -82,7 +60,7 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **The simfiles should be your own work!** You can't submit somebody else's files. Additionally, you have to actually demonstrate that you put a notable level of effort into creating the file. Copying somebody else's chart and rearranging a few notes here and there or changing the graphics does not qualify as writing your own chart. Parodies are fine, but the entire purpose of allowing user-submitted files is to get new content. If I don't think that your file can stand alone as your own work I will likely not allow it. This is subjective so ask me in advance if you have any questions.
 
-* **You can't resubmit files from previous D.O.W.N.S./U.P.S. tournaments.** This goes without saying.
+* **You can't resubmit files from previous D.O.W.N.S./U.P.S./R.I.G.H.T.S tournaments.** This goes without saying.
 
 * **Don't break the machine.** Your simfile must not crash the machine, and you are not allowed to abuse lua to modify configuration settings that persist after the song is complete (for example, you are not allowed to change settings via PREFSMAN). This is quite an extensive topic, so if you have any questions, please ask. SM5 also allows for some pretty hacky things so depending on your implementation, I may or may not allow a file depending on what it's trying to achieve.
 
@@ -108,7 +86,7 @@ If one of your simfiles is rejected, you will be allowed to resubmit a corrected
 
 Notwithstanding the aforementioned restrictions, your simfiles can be as easy or hard, plain or gimmicky, slow or fast, or reasonable or ridiculous as you like. Use this to your advantage.
 
-StepMania 5 is a lot more capable than arcade ITG/StepMania 3.95 so if you think something might not be allowed then be sure to ask me beforehand. I don't know all the capabilities of SM5 myself so some files might be rejected if I think they might affect the progress of the tournament.
+StepMania 5 is a lot more capable than arcade ITG/StepMania 3.95 and ITGMania is becoming more capable than base StepMania 5, so if you think something might not be allowed then be sure to ask me beforehand. I don't know all the capabilities of SM5/ITGM myself so some files might be rejected if I think they might affect the progress of the tournament.
 
 Dan hosts a copy of StepMania 5's Lua API doc [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI).
 
@@ -117,7 +95,6 @@ Additionally, you can submit using either .sm or .ssc files (or both!). Keep min
 SM5 has a preference for "Quirks Mode" which adds some capability to read xml files. Quirks Mode will be enabled for the tournament so if you'd want, you can create xml that works on arcade ITG as well as SM5. Although it's probably better to just write both lua and xml.
 
 **DOUBLE-CHECK THAT YOUR SIMFILES MEET THE REQUIREMENTS BEFORE SUBMITTING THEM TO ME.**
-
 
 # Preregistration
 
@@ -132,7 +109,7 @@ To preregister, all you need to do is send me or Nick Wanner $10.00. For those w
 
 * Alternatively, you could mail me the money. If this is what you would prefer, then let me know and I'll PM you my mailing address.
 
-* You could also hunt me down in real life. I exist everywhere on Penn State's campus. I'll also be at RIP 12.5. Honestly, it'll probably be a little difficult to find me unless you're at cabby.
+* You could also hunt me down in real life. I exist everywhere on Penn State's campus. I'll also be at RIP. Honestly, it'll probably be a little difficult to find me unless you're at cabby.
 
 * Finally, you could just have another friend give me money for you. Of course, if you do this, your obligation to pay your friend back is out of my hands.
 
@@ -165,11 +142,13 @@ The tournament will be a standard double-elimination bracket. A few points will 
 
    * Seeding will be based on the order in which people register for the tournament.
 
-   * Tie-breakers will be chosen from the pack using the machine's "Random" feature.
+   * Tie-breakers will be chosen from the pack using the machine's "Portal" feature.
 
    * The player with the highest final percentage (either passing or failing) wins the song.
 
-   * You may only choose mods that do not disqualify you, with the exception that you also not use turn mods (some other mods such as Simple will also be removed from the mod selection screen).
+   * You may only choose mods that do not disqualify you, with some exceptions:
+      * **Turn Mods** such as Left and Right are not allowed.
+      * **ITGMAnia Specific** Notefield offset and per-player Visual Delay will be removed from the mod selection screen.
 
    * You may not pick a song more than once.
 
@@ -188,21 +167,20 @@ The tournament will be a standard double-elimination bracket. A few points will 
    * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
 
 
-
 # Venue Information
 
 There's a convenience store with drinks and snacks in the same building as the machine.
 
 There's an all-you-can-eat Buffet above the room we're having the tournament. It's kinda pricey, dinner is ~$15 for non students and lunch is ~$12
 
-If you get hungry, there is a lot of food downtown which is about a 5 minute walk. There is a Sheetz downtown now as well. Feel free to get food whenever you want, as long as you can get back in time for your match. You can bring food back towards the venue, but **please clean up after yourself** and throw your trash away.
+If you get hungry, there is a lot of food downtown which is about a 5 minute walk. **There is no longer a sheetz immediately downtown** 🥲. However, there are still plenty of other stores to explore. Feel free to get food whenever you want, as long as you can get back in time for your match. You can bring food back towards the venue, but **please clean up after yourself** and throw your trash away.
 
 The machine is now permanently located in Rec Room (formerly, we used to move it into this room from another area in the same building). There should be enough space to hangout and watch. At worst you can sit on peoples' laps or something.
 
 
 # Hotels / Housing / Transportation
 
-There are quite a few hotels which are fairly close by. A lot of the people who went to Penn State have graduated but there are still a few people who may have housing. I'll get more information and post it here sometime later. In the meantime, feel free to ask me any questions.
+There are quite a few hotels which are fairly close by. A lot of the people who went to Penn State have graduated but there are still a few people who may have housing. If you're looking to carpool, seek housing, or have any questions about housing/hotels/transportation feel free to drop a message in the #housing-and-transport channel in the discord. Feel free to also PM me any questions.
 
 The closest airport is the University Park Airport which is like a 5–10 minute drive from campus. It's also a fairly small airport.
 
