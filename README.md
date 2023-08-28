@@ -18,7 +18,7 @@ Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Si
 | Fee | $10 for preregistrants / $15 at the door  |
 | Establishment | Pollock Commons  |
 | Address  | Pollock Commons, State College, PA 16802  |
-
+| Pre-reg Deadline | December 1st  |
 [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010)<br>
 [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)<br>[R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1)
 
@@ -54,11 +54,11 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
 
 * **The simfile must not be offensive.** Offensive material includes **obscene** levels of profanity, explicit sexual references, lyrics depicting excessive violence, irritatingly loud and obnoxious noises, and anything else that could offend or disturb others in the surrounding area. Simfiles that do not meet this criteria will be rejected, so please do not spend time working on a submission unless you are confident that it is acceptable. (In addition, any graphics, lyric files, or other additions to the simfile must also be appropriate). If you have any questions about whether a song meets this criteria or not feel free to PM me. 
 
-* The simfile audio can contain **swears** provided they adhere to the previous guideline and can be considered "lowkey". This rule is somewhat subjective and will be at the discretion of the TOs. You may be asked to censor your chart before it can be accepted into the pack.
+* **Swears cannot be a prominent part of the simfile audio.** The simfile audio can contain **swears** provided they adhere to the previous guideline and can be considered "lowkey". This rule is somewhat subjective and will be at the discretion of the TOs. You may be asked to censor your chart before it can be accepted into the pack.
 
 * **The chart must have at least 50 hittable arrows.** An example of an arrow that is not hittable is one that is preceded by a negative BPM/warp. The purpose of this rule is to cut down the chances of players repeatedly tying on a song.
 
-* **The total uncompressed size of all of your three submissions *combined* should be no greater than 25MB.** The tournament pack grows in size every year, and I want to keep it somewhat reasonable. If your simfile includes a video file, you will absolutely need to compress it to meet this requirement.
+* **The total uncompressed size of all of your three submissions *combined* should be no greater than 30MB.** The tournament pack grows in size every year, and I want to keep it somewhat reasonable. If your simfile includes a video file, you will absolutely need to compress it to meet this requirement.
 
 * **The simfiles should be your own work!** You can't submit somebody else's files. Additionally, you have to actually demonstrate that you put a notable level of effort into creating the file. Copying somebody else's chart and rearranging a few notes here and there or changing the graphics does not qualify as writing your own chart. Parodies are fine, but the entire purpose of allowing user-submitted files is to get new content. If I don't think that your file can stand alone as your own work I will likely not allow it. This is subjective so ask me in advance if you have any questions.
 
@@ -128,7 +128,7 @@ You can not preregister more than once.
 
 Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is submit your files to the stepchart submission form:
 
-* https://forms.gle/2AeTkEAAVLR1nSju5
+* https://forms.gle/gXF9Qynxx64Xx2KF6
 
 As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
