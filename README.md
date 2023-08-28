@@ -20,7 +20,7 @@ Rhythm In Gaming: High Tech Shitposting 1
 | Address  | Pollock Commons, State College, PA 16802  |
 
 [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010)<br>
-[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)<br>[R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS-1/wiki/R.I.G.H.T.S-1)
+[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)<br>[R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1)
 
 # Overview
 
@@ -38,9 +38,9 @@ Note that there is a reduced entry fee for those who preregister before December
 
 # Software
 
-We are presently running **ITGMania 0.5.1** on our cab and will be during R.I.G.H.T.S 1. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
+We are presently running **ITGMania 0.7.0** on our cab and will be during R.I.G.H.T.S 2. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
 
-If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.1.
+If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.
 
 # Simfile Guidelines
 
@@ -165,6 +165,7 @@ The tournament will be a standard double-elimination bracket. A few points will 
    * Don't fart on your opponent while you're playing. Unless they're into that.
 
    * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
+
 
 
 # Venue Information
