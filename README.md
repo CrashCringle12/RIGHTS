@@ -1,6 +1,7 @@
 # R.I.G.H.T.S Tournament 2
 
-![RIGHTS2](https://github.com/CrashCringle12/RIGHTS/assets/30600688/4f9cba14-756e-4417-85d5-833f9d415752)
+![FinalMarqueeBanner](https://github.com/CrashCringle12/RIGHTS/assets/30600688/4b1e6ac1-f3e3-40a1-9e9d-6f79e900929c)
+
 
 Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Sillyposting 2)
 
