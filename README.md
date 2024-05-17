@@ -20,8 +20,12 @@ Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Si
 | Establishment | Pollock Commons  |
 | Address  | Pollock Commons, State College, PA 16802  |
 | Pre-reg Deadline | November 30th  |
-[D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010)<br>
-[U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) | [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395)<br>[R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1)
+| [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) |
+| [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) |
+| [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | 
+| [U.P.S. 2](http://aaronin.jp/boards/viewtopic.php?t=11311) | [U.P.S. 3](http://aaronin.jp/boards/viewtopic.php?t=11360) |
+| [U.P.S. 4](http://aaronin.jp/boards/viewtopic.php?t=11385) | [U.P.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11395) |
+| [R.I.G.H.T.S 1](https://github.com/CrashCringle12/RIGHTS/wiki/R.I.G.H.T.S-1) |
 
 # Overview
 
