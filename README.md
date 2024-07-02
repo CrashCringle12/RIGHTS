@@ -3,7 +3,7 @@
 ![FinalMarqueeBanner](https://github.com/CrashCringle12/RIGHTS/assets/30600688/4b1e6ac1-f3e3-40a1-9e9d-6f79e900929c)
 
 
-Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Sillyposting 2)
+Rhythm In Gaming: High Tech Shitposting 2 ( SFW - Rhythm In Gaming: High Tech Stepcharts 2)
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
