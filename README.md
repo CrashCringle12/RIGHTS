@@ -41,7 +41,7 @@ Note that there is a reduced entry fee for those who preregister before November
 
 # Software
 
-We are presently running **ITGMania 0.8.0** on our cab and will be during R.I.G.H.T.S 3. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
+We are presently runningthe latest release of **ITGMania 0.9.0** on our cab and will be during R.I.G.H.T.S 3. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
 
 If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.
 
