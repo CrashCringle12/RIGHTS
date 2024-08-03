@@ -132,7 +132,7 @@ You can not preregister more than once.
 
 Once you have preregistered, you may begin submitting simfiles. To submit a simfile, all you have to do is submit your files to the stepchart submission form:
 
-* https://forms.gle/gXF9Qynxx64Xx2KF6
+* https://forms.gle/KTTGvKbqMjPJFPNUA
 
 As soon as simfile is accepted into the pack, I will post it for download. Please note, however, that I have a life (just kidding) and may take a few days to get around to downloading your file, previewing it, and updating this thread accordingly. This is especially true towards the end of the submission period, when I start receiving 10+ new files a day.
 
