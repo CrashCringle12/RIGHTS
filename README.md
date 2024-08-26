@@ -5,7 +5,6 @@
 
 ## Social Media
   * [Discord](https://discord.gg/zCzfry9yZR)
-  * [FB Group](https://fb.me/e/1TqGIkn1k)
 
 # Important Stuff
 
@@ -17,7 +16,7 @@
 | Fee | $10 for preregistrants / $15 at the door  |
 | Establishment | Pollock Commons  |
 | Address  | Pollock Commons, State College, PA 16802  |
-| Pre-reg Deadline | November 30th  |
+| Pre-reg Deadline | December 13th  |
 | [D.O.W.N.S. 1](http://aaronin.jp/boards/viewtopic.php?t=7882) | [D.O.W.N.S. 2](http://aaronin.jp/boards/viewtopic.php?t=8881) |
 | [D.O.W.N.S. 3](http://aaronin.jp/boards/viewtopic.php?t=9866) | [D.O.W.N.S. 4](http://aaronin.jp/boards/viewtopic.php?t=10580) |
 | [D.O.W.N.S. 5](http://aaronin.jp/boards/viewtopic.php?t=11010) | [U.P.S. 1](http://aaronin.jp/boards/viewtopic.php?t=11197) | 
@@ -33,11 +32,11 @@ The rules will be similar to those of the U.P.S and D.O.W.N.S. tournament series
 
 Like before, the only selectable songs in this tournament will be those from a special custom pack. The contents of this pack will be determined entirely by the tournament entrants. Here's how it works:
 
-If you preregister before November 30th, you are allowed to submit up to three of your own home-made custom simfiles. The simfiles must also be submitted before before EOD November 30th. Then all of the submitted simfiles will be accumulated and distributed as a whole sometime soon afterward. You have from then until the date of the tournament to practice the custom simfiles.
+If you preregister before December 13th, you are allowed to submit up to three of your own home-made custom simfiles. The simfiles must also be submitted before before EOD December 13th. Then all of the submitted simfiles will be accumulated and distributed as a whole sometime soon afterward. You have from then until the date of the tournament to practice the custom simfiles.
 
-Of course, you can still choose to enter after November 30th, but you will not be able to submit any of your own simfiles to the tournament pack.
+Of course, you can still choose to enter after December 13th, but you will not be able to submit any of your own simfiles to the tournament pack.
 
-Note that there is a reduced entry fee for those who preregister before November 30th.
+Note that there is a reduced entry fee for those who preregister before December 13th.
 
 # Software
 
@@ -103,7 +102,7 @@ SM5/ITGM has a preference for "Quirks Mode" which adds some capability to read l
 
 # Preregistration
 
-**The preregistration deadline is November 30th. You cannot preregister or submit any simfiles past this date.**
+**The preregistration deadline is December 13th. You cannot preregister or submit any simfiles past this date.**
 
 To preregister, all you need to do is send Crash Cringle or mimbiguity $10.00. For those who live in the area, this should be relatively simple. For you out-of-state folks, you have a few options
 **PLEASE INCLUDE YOUR NAME/USERNAME and/or HANDLE WHEN PRE-REGISTERING**
