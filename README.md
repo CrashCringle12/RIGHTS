@@ -160,6 +160,8 @@ The tournament will be a standard double-elimination bracket. A few points will 
       * **ITGMAnia Specific** Notefield offset and per-player Visual Delay will be removed from the mod selection screen.
 
    * You may not pick a song more than once.
+     
+   * You are free to choose songs that you have submitted or contributed to, but you can only do so 3 times in the tournament.
 
    * You may only pick (or random) amongst the expert singles charts.
 
@@ -177,7 +179,43 @@ The tournament will be a standard double-elimination bracket. A few points will 
 
    * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
 
+# R.I.G.H.T.S Couples Rules
 
+## Teams
+### Selection
+Players will form teams of 5. You are free to assemble your own Teams up until the event begins. If there are folks without a team we'll try to consolidate any ungrouped players to form a team. You will need at least 5 players due to the variable number of players required for the songs.
+### Lives
+Every player will have a total of 6 Lives. Lives are expended every time a player plays a song. For example, if Telperion and Paul J Kim go up and play, both Telp and Paul will have expended ``1`` life during that set. So if they had 6 lives they now have 5. When a player reaches 0 lives the team can no longer use this player for any matches. 
+
+## Rounds
+### Info
+There will be a total of 12 Rounds in the game. A Round is complete when every team has played their selected song for the round. A maximum of two teams can play at once on two cabs that have been designated for the couples tournament. Please wait for a TOs signal before starting your song. (Depending on time and constraints we may open a third machine up for couples). 
+
+### Who's turn is it?
+At the start of every round we will announce a number, you will need to send that amount of players up to play for that round.
+For example, if Round 1 is a "3 Player" round. You will need to choose 3 players from your team to go up. Rounds will be a minimum of two 
+
+How you choose who goes up is really up to you. You can discuss it, rock paper scissors, draw straws, yell "not it"... It's really up to you, though - battles to the death are strongly discouraged as this would put you under the 5 player requirement. 
+
+Our Official Recommendation for Team Selection is to use "Playground Style" children's it games such as:  Bubblegum in a Dish or Eeny Meeny Miny Moe. I will perform a live demonstration of these methods at the event for those who are unfamiliar. If you cannot agree on a method we will fallback on one of these games.
+
+As previously stated, you can only choose players that have at least 1 life remaining. If the team doesn't have enough players to send, (due to insufficient lives) then your team will receive a 0 for the round.
+
+### Song Selection
+We'll be using a Card Draw system for Song Selection. The pool of songs is dependent upon the Round. For example, if it is a 2-player round the song selection will be all 2-player songs in the pack. 
+
+Your team will draw 5 songs from the respective pool*. After the songs are drawn you can freely choose from this list which song you will play. If the next round uses the same amount of players as the previous round, you will use this same pool. Otherwise you'll draw another 5.
+
+There are certain special rounds where we have predetermined the song that will be played. You'll be informed of this at the start of the round.
+
+After a song is played it will be removed from the card draw. (Songs can only be played once).
+
+### Scoring
+After each song you'll be given a score on the evaluation screen. This is your "couples" score (The score accrued by your entire party during the song). You'll also be shown the individual scores for Player 1 and Player 2. For the tournament we will only be considering your combined "couples" scores.
+
+After the song is completed, each sent player loses one life and the score is plugged into a formula for the team. The score you got on the song, the number of players that participated, and the difficulty of the song determine the total score of obtain from the round. 
+
+At the end of all the rounds scores are totaled and the winner is the team with the highest score.
 
 # Venue Information
 
