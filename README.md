@@ -40,9 +40,9 @@ Note that there is a reduced entry fee for those who preregister before December
 
 # Software
 
-We are presently runningthe latest release of **ITGMania 0.9.0** on our cab and will be during R.I.G.H.T.S 3. Information about ITGMania can be found [HERE](https://www.itgmania.com/).
+We are presently running **ITGmania 0.9.0** on our cab and will be during R.I.G.H.T.S 3. Information about ITGmania can be found [HERE](https://www.itgmania.com/).
 
-If you're unfamiliar with ITGMania, for the purposes of this tournament it can be considered interchangeable with SM5.
+If you're unfamiliar with ITGmania, for the purposes of this tournament it can be considered interchangeable with SM5.
 
 # Simfile Guidelines
 
@@ -83,20 +83,20 @@ If your submissions do not meet the guidelines, they will not be accepted. So if
  * *While all attacks were allowed in the past, we've found some game-crashing nuances with them and thus will be accepted on a case-by-case basis.
 
   * If you have any questions, don't hesitate to ask. Additionally if you come across any bugs, please let us know!
-* **ITGMania Specific** You are not allowed to use Lua to manipulate timing windows/visual delay.
+* **ITGmania Specific** You are not allowed to use Lua to manipulate timing windows/visual delay.
 
 If one of your simfiles is rejected, you will be allowed to resubmit a corrected version of the rejected file or an entirely new file. You may choose to resubmit after a rejection as many times as you like, up until submissions are closed. However, once a simfile is accepted, it may not be revised or replaced. This means you should sync your files BEFORE giving them to me.
 
 
 Notwithstanding the aforementioned restrictions, your simfiles can be as easy or hard, plain or gimmicky, slow or fast, or reasonable or ridiculous as you like. Use this to your advantage.
 
-If you think something might not be allowed be sure to ask us beforehand. We don't know *all* the capabilities of SM5/ITGM so some files might be rejected if we think they might affect the progress of the tournament.
+If you think something might not be allowed be sure to ask us beforehand. We don't know *all* the capabilities of SM5/ITGm so some files might be rejected if we think they might affect the progress of the tournament.
 
-Quietly-turning hosts a copy of ITGMania's Lua API doc [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI?engine=ITGmania&version=(beta)).
+quietly-turning hosts a copy of ITGmania's Lua API doc [HERE](https://quietly-turning.github.io/Lua-For-SM5/LuaAPI?engine=ITGmania&version=(beta)).
 
-Additionally, you can submit using either .sm or .ssc files (or both!). Keep mind that .ssc will only work for SM5/ITGM and not arcade ITG/3.95/OpenITG. I recommend sticking with the .ogg/.sm convention if you're not doing anything SM5/ITGM exclusive so that people who aren't running ITGM can still play/practice your charts.
+Additionally, you can submit using either .sm or .ssc files (or both!). Keep mind that .ssc will only work for SM5/ITGm and not arcade ITG/3.95/OpenITG. I recommend sticking with the .ogg/.sm convention if you're not doing anything SM5/ITGm exclusive so that people who aren't running ITGm can still play/practice your charts.
 
-SM5/ITGM has a preference for "Quirks Mode" which adds some capability to read legacy xml files. Quirks Mode will be enabled for the tournament so if you'd want, you can create an xml file that works on arcade ITG as well as SM5/ITGM. Although it's recommended to write in lua.
+SM5/ITGm has a preference for "Quirks Mode" which adds some capability to read legacy xml files. Quirks Mode will be enabled for the tournament so if you'd want, you can create an xml file that works on arcade ITG as well as SM5/ITGm. Although it's recommended to write in lua.
 
 **DOUBLE-CHECK THAT YOUR SIMFILES MEET THE REQUIREMENTS BEFORE SUBMITTING THEM TO US.**
 
@@ -157,7 +157,7 @@ The tournament will be a standard double-elimination bracket. A few points will 
       * **Hide Mods** are okay with the exception of Background.
       * **Disable Timing Windows** you cannot turn off Way Offs or Decents
       * **All Uncommon Modifiers are forbidden**
-      * **ITGMAnia Specific** Notefield offset and per-player Visual Delay will be removed from the mod selection screen.
+      * **ITGmania Specific** Notefield offset and per-player Visual Delay will be removed from the mod selection screen.
 
    * You may not pick a song more than once.
      
@@ -191,7 +191,7 @@ Every player will have a total of 6 Lives. Lives are expended every time a playe
 ### Info
 There will be a total of 12 Rounds in the game. A Round is complete when every team has played their selected song for the round. A maximum of two teams can play at once on two cabs that have been designated for the couples tournament. Please wait for a TOs signal before starting your song. (Depending on time and constraints we may open a third machine up for couples). 
 
-### Who's turn is it?
+### Whose turn is it?
 At the start of every round we will announce a number, you will need to send that amount of players up to play for that round.
 For example, if Round 1 is a "3 Player" round. You will need to choose 3 players from your team to go up. Rounds will be a minimum of two 
 
