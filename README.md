@@ -179,7 +179,7 @@ The tournament will be a standard double-elimination bracket. A few points will 
 
    * You can't use any peripherals or humans as an aide while playing any of the charts. i.e. NO TETRIS DANK STRATS JONX JONES
 
-# R.I.G.H.T.S Couples Rules
+# Couples Rules
 
 ## Teams
 ### Selection
