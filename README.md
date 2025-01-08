@@ -217,6 +217,28 @@ After the song is completed, each sent player loses one life and the score is pl
 
 At the end of all the rounds scores are totaled and the winner is the team with the highest score.
 
+## Songs
+The songs in the pack range from level 7 - 12 (Majority of songs being 9s and 10s).
+Song List: https://docs.google.com/spreadsheets/d/1L5Oer3euY3hQHl-yfMuyX9OljPXnsEVYULqaatkJVcQ/edit?usp=sharing
+
+This is an "all encompassing" couples tournament meaning that a chart can be one of the following styles:
+
+- OnlyOneCouples - P1 is hold notes, P2 is roll notes. Arrows will still show their rhythms.
+- Bootcamp - P1 is one color, P2 is another color. Arrows will not show their rhythms.
+- OnlyOneBootcamp - A hybrid of the above typically involving 3+ players and sometimes soccer balls.
+- Other - There are a few couples songs in the pack that follow other styles entirely. If you have any questions about a song feel free to reach out.
+
+## Technical Information
+Sooo for this tournament we're basically beta testing "Routine" mode in ITGMania. This is highly experimental at the moment so appreciate all participants for participating. You're helping make dance games even greater.
+
+Routine mode is an "official" couples mode in the engine. I had to make a bunch of changes to the engine and theme for this to work and that'll be pretty apparent on arrival. If you have any questions about this feel free to @me, dm, or ask me during down time at the event.
+
+There may be a few quirks that pop up here and there, we'll have a feedback form out to collect those. 
+
+In the event that the software just completely crashes and burns the day of the tournament -- Have no fear. We will fallback on playing the original doubles versions of these songs. If this happens none of the above rules/info change aside from players would not be able to see individualized scores.
+
+But yeah, I include this section as a disclaimer so folks are aware. We ask for your patience in the event of any issues and thank you once again for being guinea pigs in our fun tournament. Super excited!
+
 # Venue Information
 
 There's a convenience store with drinks and snacks in the same building as the machine.
