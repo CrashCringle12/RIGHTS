@@ -1,5 +1,5 @@
 # R.I.G.H.T.S Tournament 3
-![SmallerBanner](https://github.com/user-attachments/assets/9b2922d5-a5af-4d77-826d-e8da238e5f58)
+![FinalBannerUltimate](https://github.com/user-attachments/assets/18762511-c2aa-4e24-b906-5b802c516e7f)
 
 ## Rhythm In Gaming: High Tech Stepcharts 
 
