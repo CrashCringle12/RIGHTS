@@ -11,7 +11,7 @@
 | Thing  | Info |
 | ------------- | ------------- |
 | Date  | January 18th-19th 2025  |
-| Times  | *Saturday: 10:00am - Whenever*  |
+| Times  | *Saturday: 10:30am - Whenever*  |
 | Times  | *Sunday: 11:00am - Whenever*  |
 | Fee | $10 for preregistrants / $15 at the door  |
 | Establishment | Pollock Commons  |
